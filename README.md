@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Development.**
 
-- 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff.**
+- 👯 I’m looking to collaborate on **Python projects and Web Dev stuff.**
 
 - 📫 How to reach me **kavinbaraths66@gmail.com**
 
